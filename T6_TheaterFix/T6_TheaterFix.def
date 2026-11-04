@@ -1,0 +1,10 @@
+LIBRARY T6_TheaterFix.Red32n
+EXPORTS
+    PreInit
+    PostInit
+    AuthorInfo
+    ExtendedInfo
+    OfficialMod
+    DependencyCount
+    GetDependency
+    SendMessageB
